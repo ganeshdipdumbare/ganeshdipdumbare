@@ -8,7 +8,8 @@
 - 🌱 I’m currently learning flutter.  
 <img src="https://raw.githubusercontent.com/ganeshdipdumbare/ganeshdipdumbare/master/gif/flutter.gif" width="100" height="100" />  
 
+- 🕸️ Blogs at: [https://www.ganeshdip.dev/](https://www.ganeshdip.dev/)
 - 💬 Ask me about microservices, backend development, mobile app development.
-- 📫 How to reach me: ganeshdip.dumbare@gmail.com 
+- 📫 How to reach me: hello@ganeshdip.dev
 - ⚡ Fun fact: I like challenges which are hard to solve.
 
