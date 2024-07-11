@@ -13,6 +13,6 @@
 - 🕸️ Blogs at: [https://www.ganeshdip.dev/](https://www.ganeshdip.dev/)
 - 💬 Ask me about microservices, backend development, mobile app development.
 
-- 📫 How to reach me: hello@ganeshdip.dev
+- 📫 How to reach me: ganeshdip.dumbare@gmail.com
 - ⚡ Fun fact: I like challenges which are hard to solve.
 
