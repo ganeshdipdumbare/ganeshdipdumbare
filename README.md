@@ -563,8 +563,8 @@ $ cd portfolio && npm install && npm run dev
       <div align="left"><span style="font-family: monospace; font-size: 9px; color: rgba(4, 28, 28, 0.4); font-weight: bold;">VERIFIED // SYSTEM_SECURE</span></div>
     </td>
     <!-- empty cells to balance layout -->
-    <td width="33.33%" style="border: 1px solid rgba(4, 28, 28, 0.15); background-color: transparent;"></td>
-    <td width="33.33%" style="border: 1px solid rgba(4, 28, 28, 0.15); background-color: transparent;"></td>
+    <td width="33.33%" style="border: 1px solid rgba(4, 28, 28, 0.15); background-color: transparent;">&nbsp;</td>
+    <td width="33.33%" style="border: 1px solid rgba(4, 28, 28, 0.15); background-color: transparent;">&nbsp;</td>
   </tr>
 </table>
 
