@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 350" width="100%">
+  <!-- Background -->
+  <rect width="1200" height="350" fill="#ffe6cb" />
+
+  <!-- Dither/Noise overlay grid lines -->
+  <line x1="50" y1="0" x2="50" y2="350" stroke="#041c1c" stroke-width="1" opacity="0.1" />
+  <line x1="200" y1="0" x2="200" y2="350" stroke="#041c1c" stroke-width="1" opacity="0.1" />
+  <line x1="1000" y1="0" x2="1000" y2="350" stroke="#041c1c" stroke-width="1" opacity="0.1" />
+  <line x1="1150" y1="0" x2="1150" y2="350" stroke="#041c1c" stroke-width="1" opacity="0.1" />
+  
+  <line x1="0" y1="50" x2="1200" y2="50" stroke="#041c1c" stroke-width="1" opacity="0.1" />
+  <line x1="0" y1="300" x2="1200" y2="300" stroke="#041c1c" stroke-width="1" opacity="0.1" />
+
+  <!-- Outer Brutalist double borders -->
+  <rect x="15" y="15" width="1170" height="320" fill="none" stroke="#041c1c" stroke-width="2" />
+  <rect x="23" y="23" width="1154" height="304" fill="none" stroke="#041c1c" stroke-width="1" />
+
+  <!-- Header Telemetry Row -->
+  <line x1="23" y1="75" x2="1177" y2="75" stroke="#041c1c" stroke-width="1.5" />
+  
+  <!-- Telemetry labels -->
+  <!-- Label 1 -->
+  <text x="50" y="52" font-family="Courier, monospace" font-size="13" font-weight="bold" fill="#041c1c">[INDEXING: ACTIVE]</text>
+  <!-- Label 2 -->
+  <text x="350" y="52" font-family="Courier, monospace" font-size="13" font-weight="bold" fill="#b36b00">[STATUS: AVAILABLE_FOR_CONTRACTS]</text>
+  <!-- Label 3 -->
+  <text x="750" y="52" font-family="Courier, monospace" font-size="13" font-weight="bold" fill="#041c1c">[LOC: BERLIN_DE]</text>
+  <!-- Label 4 -->
+  <text x="1000" y="52" font-family="Courier, monospace" font-size="13" font-weight="bold" fill="#041c1c">[SYS_LOAD: PASS]</text>
+
+  <!-- Vertical telemetry dividers -->
+  <line x1="300" y1="23" x2="300" y2="75" stroke="#041c1c" stroke-width="1" />
+  <line x1="700" y1="23" x2="700" y2="75" stroke="#041c1c" stroke-width="1" />
+  <line x1="950" y1="23" x2="950" y2="75" stroke="#041c1c" stroke-width="1" />
+
+  <!-- Main Content Layout -->
+  <!-- Left Side: Ganeshdip Dumbare Title -->
+  <text x="50" y="170" font-family="Syne, system-ui, -apple-system, sans-serif" font-size="64" font-weight="900" letter-spacing="2" fill="#041c1c">GANESHDIP DUMBARE</text>
+  <text x="50" y="240" font-family="Courier, monospace" font-size="20" font-weight="bold" fill="#b36b00">&gt;_ SENIOR BACKEND ENGINEER &amp; ARCHITECT</text>
+  <text x="50" y="275" font-family="Courier, monospace" font-size="14" fill="#041c1c" opacity="0.6">// Golang • Microservices • Distributed Systems • Smart Contracts</text>
+
+  <!-- Right Side Decorative ASCII/Brutalist Graphic -->
+  <g transform="translate(950, 110)">
+    <rect x="0" y="0" width="180" height="150" fill="none" stroke="#041c1c" stroke-width="2" />
+    <!-- Diagonal lines inside box to form dither or geometric shapes -->
+    <line x1="0" y1="0" x2="180" y2="150" stroke="#041c1c" stroke-width="1" />
+    <line x1="180" y1="0" x2="0" y2="150" stroke="#041c1c" stroke-width="1" />
+    <circle cx="90" cy="75" r="45" fill="#ffe6cb" stroke="#041c1c" stroke-width="2" />
+    <!-- inner geometric cross -->
+    <line x1="90" y1="30" x2="90" y2="120" stroke="#041c1c" stroke-width="1.5" />
+    <line x1="45" y1="75" x2="135" y2="75" stroke="#041c1c" stroke-width="1.5" />
+    <text x="90" y="80" font-family="Courier, monospace" font-size="12" font-weight="bold" text-anchor="middle" fill="#b36b00">GO</text>
+  </g>
+</svg>
